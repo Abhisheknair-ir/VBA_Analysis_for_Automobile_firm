@@ -1,5 +1,9 @@
 # VBA_Analysis_for_Automobile_firm
-Develop Macro to automate Annual report generation
+# Develop Macro to automate Annual report generation
+# View Problem statement in VBA "problem statement.docx" file
+# Find Macro Enabled workbook "Annual_Overview.xlsm" in the folder for entire solution
+# Find "Macro Documentation.docx" for SoP
+
 Sub AssgnQ01()
 
 ' Create Excel File Annual overview
